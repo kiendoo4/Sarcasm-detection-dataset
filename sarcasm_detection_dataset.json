@@ -1,0 +1,855 @@
+[
+	{
+		"is_sarcastic": 1,
+		"headline": "Mỹ nhân có màn tụt dốc nhan sắc xót xa nhất nửa đầu 2023, còn giật vai đàn em kém tiếng?",
+		"article_link": "https://kenh14.vn/my-nhan-co-man-tut-doc-nhan-sac-xot-xa-nhat-nua-dau-2023-con-giat-vai-dan-em-kem-tieng-20230621145620239.chn"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Chelsea đồng ý bán Havertz cho Arsenal",
+		"article_link": "https://vnexpress.net/chelsea-dong-y-ban-havertz-cho-arsenal-4620239.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Khôn như Chelsea, dại như Nkunku",
+		"article_link": "https://bongdaplus.vn/ngoai-hang-anh/khon-nhu-chelsea-dai-nhu-nkunku-4033612306.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "NÓNG: Kovacic gia nhập Man City với giá 30 triệu bảng",
+		"article_link": "https://bongdaplus.vn/tin-chuyen-nhuong-man-city/nong-kovacic-gia-nhap-man-city-voi-gia-30-trieu-bang-4033542306.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Báo chí Argentina: Thua Croatia là mối nhục lịch sử, Messi chơi bóng như cầu thủ hạng 2",
+		"article_link": "https://vtc.vn/bao-chi-argentina-thua-croatia-la-moi-nhuc-lich-su-messi-choi-bong-nhu-cau-thu-hang-2-ar408328.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Loại trái cây giúp giảm cholesterol",
+		"article_link": "https://vnexpress.net/loai-trai-cay-giup-giam-cholesterol-4619720.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Chàng trai Việt là thủ khoa đầu ra hệ thạc sĩ, trúng học bổng tiến sĩ 5 tỷ đồng",
+		"article_link": "https://vtc.vn/chang-trai-viet-la-thu-khoa-dau-ra-he-thac-si-trung-hoc-bong-tien-si-5-ty-dong-ar800810.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "TẢN MẠN TRƯỚC CHUNG KẾT C1: BÂY GIỜ, HOẶC KHÔNG BAO GIỜ!",
+		"article_link": "https://zentlemen.vn/news/news-detail/TAN-MAN-TRUOC-CHUNG-KET-C1-BAY-GIO-HOAC-KHONG-BAO-GIO"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Ông bố té ngửa vì lời nói đầu đời của con trai",
+		"article_link": "https://cuoi.tuoitre.vn/ong-bo-te-ngua-vi-loi-noi-dau-doi-cua-con-trai-20230614223535519.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "3 sinh viên Đại học Bách Khoa nhận học bổng TNG Dream",
+		"article_link": "https://vtc.vn/3-sinh-vien-dai-hoc-bach-khoa-nhan-hoc-bong-tng-dream-ar797638.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "XEM UGARTE, TÔI TÌM ĐƯỢC CẢ OUSMANE DIOMANDE",
+		"article_link": "https://zentlemen.vn/news/news-detail/XEM-UGARTE-TOI-TIM-DUOC-CA-OUSMANE-DIOMANDE"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Trúc Nhân tiết lộ Thu Minh ‘đòi làm mẹ’ mình",
+		"article_link": "https://cuoi.tuoitre.vn/truc-nhan-tiet-lo-thu-minh-doi-lam-me-minh-20230621174413807.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Nhập viện vì bị 'tra tấn' qua điện thoại",
+		"article_link": "https://cuoi.tuoitre.vn/nhap-vien-vi-bi-tra-tan-qua-dien-thoai-20230324163527851.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Đi nhậu bằng xe đạp để né đo nồng độ cồn",
+		"article_link": "https://cuoi.tuoitre.vn/di-nhau-bang-xe-dap-de-ne-do-nong-do-con-20230411222615112.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "ARSENAL 0-3 BRIGHTON: CHUÔNG KỲ BU LÀ CÓ THẬT? | PHÂN TÍCH TRẬN ĐẤU",
+		"article_link": "https://zentlemen.vn/news/news-detail/ARSENAL-0-3-BRIGHTON-CHUONG-KY-BU-LA-CO-THAT--PHAN-TICH-TRAN-DAU"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "1977 VLOG - CÁCH ĐẠT KẾT QUẢ TỐT KHI THI ĐẠI HỌC?",
+		"article_link": "https://www.youtube.com/watch?v=z0fZc8eBJgE"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Tật xấu nào của Dương Qúy Phi người thường khó chịu, Đường Huyền Tông lại si mê?",
+		"article_link": "https://vtc.vn/tat-xau-nao-cua-duong-quy-phi-nguoi-thuong-kho-chiu-duong-huyen-tong-lai-si-me-ar800748.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Hà Nội: Thu giữ hàng trăm hộp thực phẩm cải thiện sinh lý, ngừa ung thư giả",
+		"article_link": "https://vtc.vn/ha-noi-thu-giu-hang-tram-hop-thuc-pham-cai-thien-sinh-ly-ngua-ung-thu-gia-ar800528.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Chelsea đã sử dụng tới 13 sơ đồ trong mùa giải năm nay",
+		"article_link": "https://www.facebook.com/photo/?fbid=542788574622842&set=a.413160054252362"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Thợ sửa xe lầy lội 'đỡ đẻ' cho ô tô",
+		"article_link": "https://cuoi.tuoitre.vn/tho-sua-xe-lay-loi-do-de-cho-o-to-20230406162150883.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "MU khổ sở vì mùa chuyển nhượng, HLV Ten Hag phát cáu với sếp lớn",
+		"article_link": "https://www.24h.com.vn/bong-da/mu-kho-so-vi-mua-chuyen-nhuong-hlv-ten-hag-phat-cau-voi-sep-lon-c48a1477506.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Neymar thỏa thuận khó tin với bồ xinh, được phép ngoại tình!",
+		"article_link": "https://vietnamnet.vn/neymar-thoa-thuan-kho-tin-voi-bo-duoc-phep-ngoai-tinh-2157059.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Cụ bà 73 tuổi cover bài 'Thu ca' như nuốt đĩa",
+		"article_link": "https://cuoi.tuoitre.vn/cu-ba-73-tuoi-cover-bai-thu-ca-nhu-nuot-dia-20221102094245438.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Mùa hè của em bị... rối",
+		"article_link": "https://cuoi.tuoitre.vn/mua-he-cua-em-bi-roi-20230621192505327.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Ông già Noel chạy té khói vì dương lịch dí âm lịch",
+		"article_link": "https://cuoi.tuoitre.vn/ong-gia-noel-chay-te-khoi-vi-duong-lich-di-am-lich-20221222203114548.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Chính thức: Chanathip rời Nhật Bản về thi đấu ở Thai League",
+		"article_link": "https://soha.vn/chinh-thuc-chanathip-roi-nhat-ban-ve-thi-dau-o-thai-league-20230621201638128.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "NGA XÂM LƯỢC UKRAINE: GIẢI ĐÁP TRANH CÃI BẰNG CÔNG PHÁP QUỐC TẾ?",
+		"article_link": "https://www.youtube.com/watch?v=lVbSmW0R64k"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "PSG - CHỨC VÔ ĐỊCH LẦN THỨ 11 VÀ CÂU CHUYỆN VỀ CHIẾC BÌNH MỚI RƯỢU CŨ",
+		"article_link": "https://zentlemen.vn/news/news-detail/PSG---CHUC-VO-DICH-LAN-THU-11-VA-C-U-CHUYEN-VE-CHIEC-BINH-MOI-RUOU-CU"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "ĐT nữ Việt Nam trở lại Frankfurt, chuẩn bị giao hữu ĐT nữ Đức",
+		"article_link": "https://soha.vn/dt-nu-viet-nam-tro-lai-frankfurt-chuan-bi-giao-huu-dt-nu-duc-20230621153556095.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Cử nhân thất nghiệp, mặt hàng 'lạ' xuất hiện trên đường phố",
+		"article_link": "https://soha.vn/cu-nhan-that-nghiep-mat-hang-la-xuat-hien-tren-duong-pho-20230621141216943.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Bộ lạc kỳ lạ, thà chết đói cũng không chịu trồng trọt, không biết tiền là gì",
+		"article_link": "https://soha.vn/bo-lac-ky-la-tha-chet-doi-cung-khong-chiu-trong-trot-khong-biet-tien-la-gi-20230621233122797.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Mặt Trời có thực sự phổ biến trong Dải Ngân hà không?",
+		"article_link": "https://soha.vn/mat-troi-co-thuc-su-pho-bien-trong-dai-ngan-ha-khong-20230621153707895.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Lãi suất giảm dồn dập có thực sự tốt cho thị trường chứng khoán?",
+		"article_link": "https://soha.vn/lai-suat-giam-don-dap-co-thuc-su-tot-cho-thi-truong-chung-khoan-20230618090546851.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Túi Louis Vuitton nhỏ nhất thế giới mới được sản xuất, phải dùng kính hiển vi mới thấy được",
+		"article_link": "https://kenh14.vn/tui-louis-vuitton-nho-nhat-the-gioi-moi-duoc-san-xuat-phai-dung-kinh-hien-vi-moi-thay-duoc-20230621181411979.chn"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "TNgười mẫu Alexa Chung gây sốt với mốt không nội y",
+		"article_link": "https://kenh14.vn/nguoi-mau-alexa-chung-gay-sot-voi-mot-khong-noi-y-2023062116183129.chn"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Công chúa Dubai từ bỏ lối sống nổi loạn, làm cô dâu sang chảnh tinh tế",
+		"article_link": "https://kenh14.vn/cong-chua-dubai-tu-bo-loi-song-noi-loan-lam-co-dau-sang-chanh-tinh-te-20230620102042662rf2023062116183129.chn3"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Bộ Công an kết luận vụ thầy Phan Khắc Nghệ ôn tập cho học sinh giống 92% đề thi tốt nghiệp THPT",
+		"article_link": "https://kenh14.vn/bo-cong-an-ket-luan-vu-thay-phan-khac-nghe-on-tap-cho-hoc-sinh-giong-92-de-thi-tot-nghiep-thpt-2023061916074347.chn"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Jennie (BlackPink) còn lại gì sau điệu nhảy gợi dục?",
+		"article_link": "https://kenh14.vn/jennie-blackpink-con-lai-gi-sau-dieu-nhay-goi-duc-2023062016232949.chn"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Suga - Chàng rapper lạnh lùng của BTS và hành trình tìm thấy tiếng nói riêng",
+		"article_link": "https://kenh14.vn/suga-chang-rapper-lanh-lung-cua-bts-va-hanh-trinh-tim-thay-tieng-noi-rieng-20230620233710567.chn"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Cám ơn các bậc phụ huynh!",
+		"article_link": "https://www.facebook.com/photo/?fbid=566021325745603&set=gm.3025938247540889&idorvanity=824317294369673"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Người làm báo phải ý thức trách nhiệm, sứ mệnh mà mình gánh vác",
+		"article_link": "https://vietnamnet.vn/nguoi-lam-bao-phai-y-thuc-trach-nhiem-su-menh-ma-minh-ganh-vac-2157116.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Sức mạnh của báo chí trong kỷ nguyên số",
+		"article_link": "https://vietnamnet.vn/suc-manh-cua-bao-chi-trong-ky-nguyen-so-2155214.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Đà Nẵng cấm container, xe tải trong thời gian thi tốt nghiệp THPT",
+		"article_link": "https://vietnamnet.vn/da-nang-cam-container-xe-tai-trong-thoi-gian-thi-tot-nghiep-thpt-2156348.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Giá vàng miếng và vàng nhẫn cùng lao dốc",
+		"article_link": "https://vietnamnet.vn/gia-vang-mieng-va-vang-nhan-cung-lao-doc-2157067.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Chân dung cựu phó thống đốc ngân hàng Trung Quốc vừa bị bắt",
+		"article_link": "https://vietnamnet.vn/chan-dung-cuu-pho-thong-doc-ngan-hang-trung-quoc-vua-bi-bat-2156916.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Hơn 50% phụ nữ Hàn Quốc sợ bị tấn công tình dục khi đi taxi, nhà vệ sinh",
+		"article_link": "https://vietnamnet.vn/hon-50-phu-nu-han-quoc-so-bi-tan-cong-tinh-duc-khi-di-taxi-nha-ve-sinh-2157016.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "HLV Arteta mang… chó Win đến sân để Arsenal ‘lật kèo’ Man City",
+		"article_link": "https://vietnamnet.vn/hlv-arteta-mang-cho-win-den-san-de-arsenal-lat-keo-man-city-2145331.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Thể loại: Bí ẩn",
+		"article_link": "https://www.facebook.com/photo/?fbid=642345491266522&set=a.632449408922797"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "7 bàn thắng của Messi trên con đường vô địch World Cup 2022",
+		"article_link": "https://www.youtube.com/watch?v=fo4f6B3GRkU"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Robot giao hàng không người lái đầu tiên ở Việt Nam và tham vọng ra Đông Nam Á",
+		"article_link": "https://vietnamnet.vn/alpha-asimov-robot-giao-hang-khong-nguoi-lai-dau-tien-o-viet-nam-2156561.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Cựu Miss Teen Trang Thiên: “Có mẹ chồng là bác sĩ sản khoa như đi thi mà biết trước đề bài”",
+		"article_link": "https://kenh14.vn/cuu-miss-teen-trang-thien-co-me-chong-la-bac-si-san-khoa-nhu-di-thi-ma-biet-truoc-de-bai-20230608075307951.chn"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Tuyển sinh đại học quá chỉ tiêu: Phạt như gãi ngứa!",
+		"article_link": "https://cuoi.tuoitre.vn/tuyen-sinh-dai-hoc-qua-chi-tieu-phat-nhu-gai-ngua-20230622100453618.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Trùm Wagner tuyên bố chiếm hết cơ sở quân sự ở vùng Rostov của Nga",
+		"article_link": "https://vnexpress.net/trum-wagner-tuyen-bo-chiem-het-co-so-quan-su-o-vung-rostov-cua-nga-4621310.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Chủ tịch nước và Tổng thống Hàn Quốc cùng hai phu nhân ăn sáng, dạo phố đi bộ",
+		"article_link": "https://vietnamnet.vn/chu-tich-nuoc-va-tong-thong-han-quoc-cung-hai-phu-nhan-an-sang-dao-pho-di-bo-2157971.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "3 nhân vật bị ghét khiến khán giả 'cứ thấy là muốn tắt ti vi'",
+		"article_link": "https://cuoi.tuoitre.vn/3-nhan-vat-bi-ghet-khien-khan-gia-cu-thay-la-muon-tat-ti-vi-20230623202438372.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Nàng dâu 'số hưởng', vừa cưới xong được mẹ chồng giao cả tiệm vàng kèm yêu cầu đặc biệt",
+		"article_link": "https://kenh14.vn/nang-dau-so-huong-vua-cuoi-xong-duoc-me-chong-giao-ca-tiem-vang-kem-yeu-cau-dac-biet-20230624092539382.chn"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Quốc Hoàng thắng 'nghẹt thở' cơ thủ số năm thế giới",
+		"article_link": "https://vnexpress.net/quoc-hoang-thang-nghet-tho-co-thu-so-nam-the-gioi-4621151.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Con nuôi Phi Nhung lên tiếng về tin đồn cặp đại gia",
+		"article_link": "https://thanhnien.vn/con-nuoi-phi-nhung-len-tieng-ve-tin-don-cap-dai-gia-1852306231636083.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Cảnh giác trước 24 hình thức lừa đảo diễn ra trên không gian mạng",
+		"article_link": "https://www.nguoiduatin.vn/canh-giac-truoc-24-hinh-thuc-lua-dao-dien-ra-tren-khong-gian-mang-a613894.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "'Cảnh nóng' gây ám ảnh trong phim Jennie (BlackPink) đóng",
+		"article_link": "https://nld.com.vn/giai-tri/canh-nong-gay-am-anh-trong-phim-jennie-blackpink-dong-20230622090818445.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Gen Z 'mù tịt' cách sử dụng thiết bị văn phòng",
+		"article_link": "https://vnexpress.net/gen-z-mu-tit-cach-su-dung-thiet-bi-van-phong-4620693.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Bộ Quốc phòng Nga phủ nhận tấn công lực lượng Wagner",
+		"article_link": "https://vtc.vn/bo-quoc-phong-nga-phu-nhan-tan-cong-luc-luong-wagner-ar801683.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Trùm Wagner tuyên bố bắn hạ trực thăng Nga, an ninh siết chặt ở Moscow",
+		"article_link": "https://dantri.com.vn/the-gioi/trum-wagner-tuyen-bo-ban-ha-truc-thang-nga-an-ninh-siet-chat-o-moscow-20230624101310662.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Trùm Wagner tuyên bố bắn hạ trực thăng Nga, an ninh siết chặt ở Moscow",
+		"article_link": "https://dantri.com.vn/the-gioi/trum-wagner-tuyen-bo-ban-ha-truc-thang-nga-an-ninh-siet-chat-o-moscow-20230624101310662.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Một rapper bất ngờ gây sốt với ảnh khoe cơ bắp nét như tượng tạc",
+		"article_link": "https://kenh14.vn/mot-rapper-bat-ngo-gay-sot-voi-anh-khoe-co-bap-net-nhu-tuong-tac-20230624092735227.chn"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "MC Remind khiến dân tình 'bùng nổ' với màn cosplay Yor Forger đầy lôi cuốn",
+		"article_link": "https://gamek.vn/mc-remind-khien-dan-tinh-bung-no-voi-man-cosplay-yor-forger-day-loi-cuon-178230624104114442.chn"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Nữ ca sĩ diện đồ xuyên thấu gây sốt ở lễ hội nước là ai?",
+		"article_link": "https://soha.vn/nu-ca-si-dien-do-xuyen-thau-gay-sot-o-le-hoi-nuoc-la-ai-20230624080459164.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Cảnh sex đáng sợ nhất trong phim có Jennie (BLACKPINK)",
+		"article_link": "https://gamek.vn/canh-sex-dang-so-nhat-trong-phim-co-jennie-blackpink-178230621113401249.chn"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Cảnh nóng dày đặc ở tập 2 phim có Jennie (BlackPink)",
+		"article_link": "https://gamek.vn/canh-nong-day-dac-o-tap-2-phim-co-jennie-blackpink-178230613125755438.chn"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Vợ chồng bỏ phố về quê, trồng hàng trăm loại cây độc lạ",
+		"article_link": "https://vnexpress.net/vo-chong-bo-pho-ve-que-trong-hang-tram-loai-cay-doc-la-4619633.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "'Cụ sinh viên' 78 tuổi tốt nghiệp loại giỏi Đại học Luật Hà Nội",
+		"article_link": "https://vnexpress.net/cu-sinh-vien-78-tuoi-tot-nghiep-loai-gioi-dai-hoc-luat-ha-noi-4618725.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Những đứa trẻ 'nghiện' smartphone vì vắng mẹ",
+		"article_link": "https://vnexpress.net/nhung-dua-tre-nghien-smartphone-vi-vang-me-4616086.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Các cụ U90 'nghiện' đạp xe",
+		"article_link": "https://vnexpress.net/cac-cu-u90-nghien-dap-xe-4616703.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Những nữ cảnh sát nóng bỏng",
+		"article_link": "https://gamek.vn/nhung-nu-canh-sat-nong-bong-178230608172737828.chn"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Mạng người chả quý bằng xe",
+		"article_link": "https://tuoitre.vn/mang-nguoi-cha-quy-bang-xe-20190801130952762.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Thời của huấn luyện viên... online",
+		"article_link": "https://tuoitre.vn/thoi-cua-huan-luyen-vien-online-20190602130115188.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Bình Phước: Xử lý 2 người đăng thông tin sai sự thật trên TikTok",
+		"article_link": "https://thanhnien.vn/binh-phuoc-xu-ly-2-nguoi-dang-thong-tin-sai-su-that-tren-tiktok-185230623210016241.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "'Hào quang rực rỡ' là gì mà gây khóc?",
+		"article_link": "https://lifestyle.zingnews.vn/hao-quang-ruc-ro-la-gi-ma-gay-khoc-post1416342.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "’Sự riêng tư’ là gì mà ai cũng cần?",
+		"article_link": "https://lifestyle.zingnews.vn/su-rieng-tu-la-gi-ma-ai-cung-can-post1408695.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Khoa học của sự riêng tư: Tất cả chúng ta đều đang sống trong những bong bóng tưởng tượng",
+		"article_link": "https://genk.vn/khoa-hoc-cua-su-rieng-tu-tat-ca-chung-ta-deu-dang-song-trong-nhung-bong-bong-tuong-tuong-20230306064450498.chn"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Đón sóng “TradFi”, giá Bitcoin tìm lại hào quang rực rỡ",
+		"article_link": "https://thuonggiaonline.vn/don-song-tradfi-gia-bitcoin-tim-lai-hao-quang-ruc-ro-58477.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Huỳnh Như ngồi xe lăn, tình hình chấn thương ra sao?",
+		"article_link": "https://webthethao.vn/bong-da-viet-nam/huynh-nhu-ngoi-xe-lan-tinh-hinh-chan-thuong-ra-sao-rZY1GaX4R.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Cách phòng bệnh chàm đồng tiền",
+		"article_link": "https://vnexpress.net/cach-phong-benh-cham-dong-tien-4620960.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Tai nạn thảm khốc trên cao tốc Nha Trang - Cam Lâm, 4 người thương vong",
+		"article_link": "https://vtc.vn/tai-nan-tham-khoc-tren-cao-toc-nha-trang-cam-lam-4-nguoi-thuong-vong-ar801652.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Những năm tháng tuyệt vọng của nữ Thánh đồ 9x ở ‘tổ quỷ’ Hội Thánh Đức Chúa Trời Mẹ",
+		"article_link": "https://vtc.vn/nhung-nam-thang-tuyet-vong-cua-nu-thanh-do-9x-o-to-quy-hoi-thanh-duc-chua-troi-me-ar796961.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Hoa khôi trường Đại học Kinh tế Quốc dân tài sắc vẹn toàn",
+		"article_link": "https://vtc.vn/hoa-khoi-truong-dai-hoc-kinh-te-quoc-dan-tai-sac-ven-toan-ar801635.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Chồng đãng trí bỏ quên vợ trên đường về quê",
+		"article_link": "https://cuoi.tuoitre.vn/chong-dang-tri-bo-quen-vo-tren-duong-ve-que-20221229162916098.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Tiktoker 'sống ảo tung chảo' tại sân bay",
+		"article_link": "https://cuoi.tuoitre.vn/tiktoker-song-ao-tung-chao-tai-san-bay-20220729185809055.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Chú hổ buồn ói sau khi liếm chân sen",
+		"article_link": "https://cuoi.tuoitre.vn/chu-ho-buon-oi-sau-khi-liem-chan-sen-20230613133705054.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Phát hiện chồng ngoại tình nhờ xem livestream du lịch",
+		"article_link": "https://cuoi.tuoitre.vn/phat-hien-chong-ngoai-tinh-nho-xem-livestream-du-lich-20230505123123239.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Vì sao chăm chỉ mà vẫn thất bại?",
+		"article_link": "https://vnexpress.net/vi-sao-cham-chi-ma-van-that-bai-4621217.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Kiếm bộn tiền nhờ dọn nhà khỏa thân",
+		"article_link": "https://vnexpress.net/kiem-bon-tien-nho-don-nha-khoa-than-4621301.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Vì sao không khí trong nhà khiến bạn dễ ốm?",
+		"article_link": "https://vnexpress.net/vi-sao-khong-khi-trong-nha-khien-ban-de-om-4618860.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Sợ team building vì trò chơi phản cảm",
+		"article_link": "https://vnexpress.net/so-team-building-vi-tro-choi-phan-cam-4618286.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Người đàn ông Sài Gòn sưu tầm 300.000 vé số độc lạ",
+		"article_link": "https://vnexpress.net/nguoi-dan-ong-sai-gon-suu-tam-300-000-ve-so-doc-la-4618812.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Mẹ đơn thân nên đầu tư và kinh doanh thế nào?",
+		"article_link": "https://vnexpress.net/me-don-than-nen-dau-tu-va-kinh-doanh-the-nao-4618688.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Quýt Australia về Việt Nam giá siêu rẻ",
+		"article_link": "https://vnexpress.net/quyt-australia-ve-viet-nam-gia-sieu-re-4620933.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Bamboo Airways sẽ phát triển thế nào dưới thời chủ mới",
+		"article_link": "https://vnexpress.net/bamboo-airways-se-phat-trien-the-nao-duoi-thoi-chu-moi-4620400.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Chủ tịch các tập đoàn hàng đầu Hàn Quốc đến Việt Nam",
+		"article_link": "https://vnexpress.net/chu-tich-cac-tap-doan-hang-dau-han-quoc-den-viet-nam-4620581.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Warren Buffett đã làm từ thiện hơn 50 tỷ USD",
+		"article_link": "https://vnexpress.net/warren-buffett-da-lam-tu-thien-hon-50-ty-usd-4620822.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Vải Bắc Giang giá 780.000 đồng mỗi kg ở Mỹ",
+		"article_link": "https://vnexpress.net/vai-bac-giang-gia-780-000-dong-moi-kg-o-my-4620476.html"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "18.000 sinh viên tình nguyện sẵn sàng vượt nắng, thắng mưa",
+		"article_link": "https://thanhnien.vn/18000-sinh-vien-tinh-nguyen-san-sang-vuot-nang-thang-mua-185230624095252752.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Thiếu nhi được hớt tóc, khám răng miễn phí",
+		"article_link": "https://thanhnien.vn/thieu-nhi-duoc-hot-toc-kham-rang-mien-phi-185230623153439386.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "TP.HCM sẵn sàng thực hiện cơ chế đặc thù",
+		"article_link": "https://tuoitre.vn/tp-hcm-san-sang-thuc-hien-co-che-dac-thu-20230621230727166.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Đại học Fulbright Việt Nam trao bằng tốt nghiệp cho 95 sinh viên khóa đầu tiên",
+		"article_link": "https://tuoitre.vn/dai-hoc-fulbright-viet-nam-trao-bang-tot-nghiep-cho-95-sinh-vien-khoa-dau-tien-20230624120906544.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Bà Đàm Bích Thủy sẽ thôi làm chủ tịch Đại học Fulbright Việt Nam",
+		"article_link": "https://tuoitre.vn/ba-dam-bich-thuy-se-thoi-lam-chu-tich-dai-hoc-fulbright-viet-nam-20220912141410159.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Trái vải lòng vòng qua Mỹ",
+		"article_link": "https://tuoitre.vn/trai-vai-long-vong-qua-my-20230623222554255.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Những tỉ phú nổi tiếng nhất Hàn Quốc cùng xuất hiện tại Việt Nam",
+		"article_link": "https://tuoitre.vn/nhung-ti-phu-noi-tieng-nhat-han-quoc-cung-xuat-hien-tai-viet-nam-20230623182620336.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Loại nhựa nào độc hại, loại nhựa nào an toàn đựng thực phẩm?",
+		"article_link": "https://tuoitre.vn/loai-nhua-nao-doc-hai-loai-nhua-nao-an-toan-dung-thuc-pham-20230624090738258.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Một làng ở Hà Tĩnh có 3 di sản tư liệu được ghi danh",
+		"article_link": "https://tuoitre.vn/ha-tinh-to-chuc-ky-niem-3-danh-nhan-va-cong-bo-di-san-tu-lieu-the-gioi-20230624103202247.htm"
+	},
+	{
+		"is_sarcastic": 0,
+		"headline": "Nếu biết cách, có thể dùng trái vải bồi bổ, chữa bệnh",
+		"article_link": "https://tuoitre.vn/neu-biet-cach-co-the-dung-trai-vai-boi-bo-chua-benh-20230622085547474.htm"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Sợ team building vì trò chơi phản cảm",
+		"article_link": "https://vnexpress.net/so-team-building-vi-tro-choi-phan-cam-4618286.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Tổng thống Hàn Quốc ăn sáng, đi dạo hồ Gươm cùng Chủ tịch nước Võ Văn Thưởng",
+		"article_link": "https://thanhnien.vn/tong-thong-han-quoc-an-sang-di-dao-ho-guom-cung-chu-tich-nuoc-vo-van-thuong-185230624120321255.htm"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Sai phạm Việt Á, bay giải cứu do ‘dịch quá nhanh, vừa làm vừa rút kinh nghiệm",
+		"article_link": "https://thanhnien.vn/sai-pham-viet-a-bay-giai-cuu-do-dich-qua-nhanh-vua-lam-vua-rut-kinh-nghiem-185230624142527814.htm"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Gọi đồ ăn online - cách tiết kiệm chi phí của dân thành thị",
+		"article_link": "https://vnexpress.net/goi-do-an-online-cach-tiet-kiem-chi-phi-cua-dan-thanh-thi-4620611.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Người già bị lừa",
+		"article_link": "https://vnexpress.net/nguoi-gia-bi-lua-4618019.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Xóm người Hoa làm bánh bá trạng Tết Đoan Ngọ",
+		"article_link": "https://vnexpress.net/xom-nguoi-hoa-lam-banh-ba-trang-tet-doan-ngo-4619701.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Gen Z Mỹ đi học viết email, ứng xử nơi công sở",
+		"article_link": "https://vnexpress.net/gen-z-my-di-hoc-viet-email-ung-xu-noi-cong-so-4619946.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Các món vịt cho ngày Tết Đoan Ngọ",
+		"article_link": "https://vnexpress.net/cac-mon-vit-cho-ngay-tet-doan-ngo-4619796.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Quỳ gối 6 tiếng xin tái hôn với chồng",
+		"article_link": "https://vnexpress.net/quy-goi-6-tieng-xin-tai-hon-voi-chong-4619750.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Giới trẻ Trung Quốc chơi xổ số để tạm quên khó khăn",
+		"article_link": "https://vnexpress.net/gioi-tre-trung-quoc-choi-xo-so-de-tam-quen-kho-khan-4619485.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Người mẹ bỏ chữa ung thư để tìm sự sống cho con",
+		"article_link": "https://vnexpress.net/nguoi-me-bo-chua-ung-thu-de-tim-su-song-cho-con-4619340.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Khu trọ 300 giường miễn phí cho bệnh nhân nghèo",
+		"article_link": "https://vnexpress.net/khu-tro-300-giuong-mien-phi-cho-benh-nhan-ngheo-4619308.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Mạng xã hội khiến người Hàn Quốc sợ sinh con",
+		"article_link": "https://vnexpress.net/mang-xa-hoi-khien-nguoi-han-quoc-so-sinh-con-4619615.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Mạng xã hội khiến người Hàn Quốc sợ sinh con",
+		"article_link": "https://vnexpress.net/mang-xa-hoi-khien-nguoi-han-quoc-so-sinh-con-4619615.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Mạng xã hội khiến người Hàn Quốc sợ sinh con",
+		"article_link": "https://vnexpress.net/mang-xa-hoi-khien-nguoi-han-quoc-so-sinh-con-4619615.html"
+	},
+	{
+		"is_sarcastic": 1,
+		"headline": "Mạng xã hội khiến người Hàn Quốc sợ sinh con",
+		"article_link": "https://vnexpress.net/mang-xa-hoi-khien-nguoi-han-quoc-so-sinh-con-4619615.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Cụ sinh viên' 78 tuổi tốt nghiệp loại giỏi Đại học Luật Hà Nội",
+		"article_link": "https://vnexpress.net/cu-sinh-vien-78-tuoi-tot-nghiep-loai-gioi-dai-hoc-luat-ha-noi-4618725.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Những sai lầm có thể hủy hoại cuộc sống",
+		"article_link": "https://vnexpress.net/nhung-sai-lam-co-the-huy-hoai-cuoc-song-4619394.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Mẹo phong thủy cho gia đình",
+		"article_link": "https://vnexpress.net/meo-phong-thuy-cho-gia-dinh-4618933.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Bí quyết làm chè bưởi cùi giòn, không bị đắng",
+		"article_link": "https://vnexpress.net/bi-quyet-lam-che-buoi-cui-gion-khong-bi-dang-4619336.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "5 việc người thông minh tuyệt đối không làm",
+		"article_link": "https://vnexpress.net/5-viec-nguoi-thong-minh-tuyet-doi-khong-lam-4618939.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Người đàn ông Sài Gòn sưu tầm 300.000 vé số độc lạ",
+		"article_link": "https://vnexpress.net/nguoi-dan-ong-sai-gon-suu-tam-300-000-ve-so-doc-la-4618812.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Mang 100 kg vải thiều viếng nghĩa trang liệt sĩ",
+		"article_link": "https://vnexpress.net/mang-100-kg-vai-thieu-vieng-nghia-trang-liet-si-4618952.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Ôtô tông nhau trên cao tốc Nha Trang - Cam Lâm, 2 người chết",
+		"article_link": "https://vnexpress.net/oto-tong-nhau-tren-cao-toc-nha-trang-cam-lam-2-nguoi-chet-4621246.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Ôtô khách vi phạm tốc độ 450 lần trong tháng",
+		"article_link": "https://vnexpress.net/oto-khach-vi-pham-toc-do-450-lan-trong-thang-4621102.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Hàng loạt ôtô dán quảng cáo 'lô đề' bị đề nghị xử lý",
+		"article_link": "https://vnexpress.net/hang-loat-oto-dan-quang-cao-lo-de-bi-de-nghi-xu-ly-4621078.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Nguyên Phó thủ tướng Vũ Khoan và giấc mơ Việt Nam ra biển lớn",
+		"article_link": "https://vnexpress.net/nguyen-pho-thu-tuong-vu-khoan-va-giac-mo-viet-nam-ra-bien-lon-4620410.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Đà Lạt ngập nặng sau mưa lớn",
+		"article_link": "https://vnexpress.net/da-lat-ngap-nang-sau-mua-lon-4620974.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Bỏ đề xuất miễn lấy phiếu tín nhiệm cán bộ chữa bệnh hiểm nghèo",
+		"article_link": "https://vnexpress.net/xe-buyt-chay-tro-khung-4620944.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Xe buýt cháy trơ khung",
+		"article_link": "https://vnexpress.net/mang-xa-hoi-khien-nguoi-han-quoc-so-sinh-con-4619615.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Ba bố con tử vong dưới hồ",
+		"article_link": "https://vnexpress.net/ba-bo-con-tu-vong-duoi-ho-4620880.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Cho vay từ khoản đóng quỹ BHXH sẽ giảm nhận trợ cấp một lần",
+		"article_link": "https://vnexpress.net/cho-vay-tu-khoan-dong-quy-bhxh-se-giam-nhan-tro-cap-mot-lan-4620699.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Nhiều đường ở Sài Gòn ngập sâu sau mưa lớn",
+		"article_link": "https://vnexpress.net/nhieu-duong-o-sai-gon-ngap-sau-sau-mua-lon-4620694.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Tổng thống Hàn Quốc ấn tượng với người hâm mộ Kpop ở Hà Nội",
+		"article_link": "https://vnexpress.net/tong-thong-han-quoc-an-tuong-voi-nguoi-ham-mo-kpop-o-ha-noi-4620669.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Ba người trong gia đình tử vong dưới hồ",
+		"article_link": "https://vnexpress.net/ba-nguoi-trong-gia-dinh-tu-vong-duoi-ho-4620659.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Hai nguyên chủ tịch tỉnh Lào Cai bị xóa tư cách chức vụ",
+		"article_link": "https://vnexpress.net/hai-nguyen-chu-tich-tinh-lao-cai-bi-xoa-tu-cach-chuc-vu-4620649.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Sửa chữa đường tránh quốc lộ 1A qua TP Thanh Hóa",
+		"article_link": "https://vnexpress.net/sua-chua-duong-tranh-quoc-lo-1a-qua-tp-thanh-hoa-4620634.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Đại biểu Quốc hội kiến nghị giữ quê quán trên căn cước công dân",
+		"article_link": "https://vnexpress.net/dai-bieu-quoc-hoi-kien-nghi-giu-que-quan-tren-can-cuoc-cong-dan-4620565.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Quốc hội chốt bổ sung sáu vị trí cấp tướng cho công an",
+		"article_link": "https://vnexpress.net/quoc-hoi-chot-bo-sung-sau-vi-tri-cap-tuong-cho-cong-an-4620468.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Người hưởng lương hưu cao nhất nước 124 triệu đồng",
+		"article_link": "https://vnexpress.net/nguoi-huong-luong-huu-cao-nhat-nuoc-124-trieu-dong-4620439.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Cháy nhà, ba người tử vong",
+		"article_link": "https://vnexpress.net/chay-nha-ba-nguoi-tu-vong-4620460.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Nguy hiểm rình rập ở vòng xoay cửa ngõ Sài Gòn",
+		"article_link": "https://vnexpress.net/nguy-hiem-rinh-rap-o-vong-xoay-cua-ngo-sai-gon-4620198.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "1.000 tỷ đồng để di dời hạ tầng cho Metro số 2",
+		"article_link": "https://vnexpress.net/1-000-ty-dong-de-di-doi-ha-tang-cho-metro-so-2-4620451.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Di tích kháng chiến xuống cấp",
+		"article_link": "https://vnexpress.net/di-tich-khang-chien-xuong-cap-4620405.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Khó tiếp cận nhà xã hội giá rẻ vì thiếu phân khúc cho thuê",
+		"article_link": "https://vnexpress.net/kho-tiep-can-nha-xa-hoi-gia-re-vi-thieu-phan-khuc-cho-thue-4619852.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Ba thanh niên lao xuống sông Sài Gòn cứu 2 mẹ con",
+		"article_link": "https://vnexpress.net/ba-thanh-nien-lao-xuong-song-sai-gon-cuu-2-me-con-4619932.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Ba người bị phóng điện khi khoan thăm dò địa chất",
+		"article_link": "https://vnexpress.net/ba-nguoi-bi-phong-dien-khi-khoan-tham-do-dia-chat-4619865.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Mạng xã hội khiến người Hàn Quốc sợ sinh con",
+		"article_link": "https://vnexpress.net/mang-xa-hoi-khien-nguoi-han-quoc-so-sinh-con-4619615.html"
+	},
+
+	{
+		"is_sarcastic": 1,
+		"headline": "Hàng loạt quán cà phê dựng trái phép trên đèo Hải Vân",
+		"article_link": "https://vnexpress.net/hang-loat-quan-ca-phe-dung-trai-phep-tren-deo-hai-van-4619798.html"
+	},
+
+	{
+		"is_sarcastic": 0,
+		"headline": "Tổng thống Hàn Quốc bắt đầu thăm Việt Nam",
+		"article_link": "https://vnexpress.net/tong-thong-han-quoc-bat-dau-tham-viet-nam-4620275.html"
+	}
+]
